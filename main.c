@@ -5,7 +5,7 @@
 
 int main(void)
 {	
-	printf("Hello Sookmyung Electronics!\n");
+	printf("Hello Sookmyung Electronics! hyerynn\n");
 	return 0;
 }
 
